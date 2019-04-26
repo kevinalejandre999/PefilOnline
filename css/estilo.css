@@ -1,0 +1,38 @@
+body{
+	margin: 50px 50px 50px 100px;
+	background: url("../img/• TROPICAL • • TASTE • (1).png"); 
+	background-size: cover;
+	
+}
+
+.thumbnail{
+	padding: 10px;
+	background: #F8F8FF;
+	font-family: Malgun Gothic;
+	text-align: center;
+	box-shadow: 1px 1px 1px 1px silver;
+
+
+}
+
+#nombre h3 {font-family: Times New Roman; font-style: italic;}
+
+
+.well-lg{
+	background: #F8F8FF;
+	font-family: Malgun Gothic;
+	font-size: 17px;
+	box-shadow: 1px 1px 1px 1px silver;
+}
+
+.social{
+	display: inline-flex;
+	margin: 5px;
+}
+
+.imgRedonda{
+	width: 230px;
+	height: 130px;
+	border-radius: 180px;
+	border: solid 2px #A9A9A9;
+}
